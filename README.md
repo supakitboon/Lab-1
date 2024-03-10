@@ -1,1 +1,1 @@
-# Lab-1
+# Lab1 : Finding a vulnerability on a target machine 
